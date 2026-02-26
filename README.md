@@ -35,8 +35,6 @@ This project implements a **hierarchical campus network** for a four-story build
 
 ## Network Topology
 
-![Campus Network Topology](topology.png)
-
 The topology features:
 - 1 Router (Core) with Router-on-a-Stick inter-VLAN routing
 - 2 Distribution Switches (redundant backbone)
