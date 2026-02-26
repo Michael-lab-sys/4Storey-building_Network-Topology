@@ -2,6 +2,9 @@
 
 > A structured hierarchical campus network simulated in **Cisco Packet Tracer**, supporting 100 end-user devices, 20 IP phones, and 4 servers across four floors.
 
+<img width="1497" height="585" alt="image" src="https://github.com/user-attachments/assets/c0d79647-33e4-42b8-aaf1-b947f1c98899" />
+
+
 ---
 
 ## 📋 Table of Contents
@@ -178,15 +181,6 @@ spanning-tree vlan 10,30,99 priority 8192
 | SMTP/POP3         | Email services                   |
 
 ---
-
-## Project Structure
-
-```
-campus-network/
-├── README.md
-├── topology.png
-└── campus_network.pkt       # Cisco Packet Tracer file
-```
 
 ---
 
