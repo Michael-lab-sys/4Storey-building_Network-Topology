@@ -189,8 +189,8 @@ spanning-tree vlan 10,30,99 priority 8192
    ```bash
    git clone https://github.com/yourusername/campus-network.git
    ```
-3. Open `campus_network.pkt` in Cisco Packet Tracer
-4. Explore the topology and verify connectivity using `ping` between devices on different VLANs
+3. Open `4_storey_network-final.pkt` in Cisco Packet Tracer
+5. Explore the topology and verify connectivity using `ping` between devices on different VLANs
 
 ---
 
